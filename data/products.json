@@ -1,1 +1,16 @@
-[{"title":"Bookkkkkk"},{"title":"Bookkkkkk"},{"title":"Sakshi"},{"title":"Second Product"}]
+[
+  {
+    "id": "12234",
+    "title": "A Book",
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/019/900/152/small_2x/old-book-watercolor-illustration-png.png",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "title": "Camera",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8sKRgBGHeqyyzcVzby3YrHH_s0KVk-PozzvgrCdsueqkbhorjmZ0cByvks-Oy9tK38M&usqp=CAU",
+    "description": "Another very amazing product",
+    "price": "20",
+    "id": "0.00801298444463705"
+  }
+]
